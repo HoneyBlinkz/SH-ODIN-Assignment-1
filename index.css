@@ -1,0 +1,54 @@
+/* *{
+    font-family: 'Rubik Distressed', cursive;
+} */
+
+
+.bg-dark{
+    background-color: black !important; 
+}
+
+.left-div{
+    min-height: 100vh;
+    background: url(img/bg.jpg);
+    background-size: cover;
+}
+
+.logo{
+    background-color: rgba(0, 0, 0, .5);
+    margin-top: 200px;
+    font-family: 'Rubik Distressed', cursive;
+}
+
+.logo-img{
+    width: 100px;
+}
+.logo-text{
+    font-size: 80px;
+}
+
+.form-description{
+    margin-top: 90px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+label{
+    font-size: 11px;
+    font-weight: 600;
+}
+
+::placeholder{
+    font-size: 12px;
+}
+
+.link{
+    text-decoration: none;
+    color: #596d48 !important;
+    font-weight: 600 !important;
+    /* font-size: 12px; */
+}
+
+.create-account{
+    background-color: #596d48 !important;
+    font-weight: 600 !important;
+}
